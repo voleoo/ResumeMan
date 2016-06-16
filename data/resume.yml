@@ -11,36 +11,48 @@ headers:
     projects: Projects
 
 info:
-    name: Full Name
+    name: Viktor Leonets
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Job Title
-    email: example@example.com
-    phone: (313) - 867-5309 # not mandatory
-    homepage: http://example.com/ # not mandatory
+    shortdesc: Full stack Ruby On Rails developer
+    email: 4405511@gmail.com
+    phone: +38 067 63 63 246
+    # homepage: http://example.com/ # not mandatory
     address:
-        street: 123 Fake Street
-        city: City
-        region: Region # not mandatory
-        postal_code: 12345 # not mandatory
-        country: Country # not mandatory
+        # street: 123 Fake Street
+        city: Dnipro
+        # region: Region # not mandatory
+        postal_code: Ukraine # not mandatory
+        # country: Ukraine # not mandatory
     desc: |
         Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
 
 skills:
-    - name: Web design
-      desc: Assertively exploit wireless initiatives rather than synergistic core competencies.
-    - name: Interface Design
-      desc: Credibly streamline mission-critical value with multifunctional functionalities.
-    - name: Project Direction
-      desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+    - name: Alternative frameworks
+      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not the only Ruby framework out there also i'm working with Sinatra and Grape.
+    - name: Unix
+      desc: I'm a strong UNIX user, Linux or Mac OS X i love terminal and CLI
+    - name: Databases
+      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not.
+    - name: Debugging
+      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not.
+    - name: Dev-ops
+      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not.
+    - name: Startup and business basics
+      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not.
 
 languages:
-    - name: Gibberish
-      level: Native language
-    - name: Manager Speak
-      level: Fluent
+    - name: English
+      level: intermediate
+    - name: Ukrainian
+      level: native
+    - name: Russian
+      level: native
 
 alphabetsoup:
+    - Ruby/Ruby on Rails
+    - Javascript
+    - Ruby/Ruby on Rails
+
     - XHTML
     - CSS
     - Javascript
@@ -50,14 +62,16 @@ alphabetsoup:
     - CVS / Subversion
 
     - OS X
-    - Windows XP/Vista
     - Linux
+    - Windows XP/Vista
 
 links:
-    - name: Link1
-      url: http://example.com/
-    - name: Another link
-      url: https://example.com/
+    - name: GitHub
+      url: https://github.com/voleoo
+    - name: StackOverFlow
+      url: http://stackoverflow.com/users/2616317/viktor-leonets
+    - name: Linkedin
+      url: https://linkedin.com/in/leonets
 
 jobs:
     - title: Senior Interface Designer
