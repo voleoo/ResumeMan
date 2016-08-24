@@ -75,7 +75,7 @@
                                 </div>
                                 <div class="yui-u">
                                     <% data.resume.skills.each do |skill| %>
-                                    <div class="talent">
+                                    <div class="talent skills">
                                         <h2><%= skill.name %></h2>
                                         <p><%= skill.desc %></p>
                                     </div>
@@ -157,6 +157,13 @@
                                             </span>
                                             <% end %>
                                             <p><%= Maruku.new(project.desc).to_html %></p>
+                                            <% if project.tags.present? %>
+                                                <p class="tags">
+                                                  <% project.tags.split(',').each do |tag| %>
+                                                    <span class="tag"><%= tag %></span>
+                                                  <% end %>
+                                                </p>
+                                            <% end %>
                                         </div>
                                     <% end %>
                                     </div>

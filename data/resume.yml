@@ -24,21 +24,19 @@ info:
         postal_code: Ukraine # not mandatory
         # country: Ukraine # not mandatory
     desc: |
-        Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+        I solve tough prob­lems by ap­ply­ing a broad skillset de­vel­oped through more than a half decade of pas­sion for the craft of soft­ware en­gi­neer­ing and web development.
 
 skills:
     - name: Alternative frameworks
-      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not the only Ruby framework out there also i'm working with Sinatra and Grape.
-    - name: Unix
-      desc: I'm a strong UNIX user, Linux or Mac OS X i love terminal and CLI
+      desc: Ruby is not just Rails. It became dominant framework, and is something I probably work everyday, but it is not the only Ruby framework out there also I'm working with Sinatra and Grape.
+    - name: JavaScript and CSS
+      desc: Javascript is very necessary technology for modern websites, I working with BackboneJS, AngularJS and ReactJS. Also I working with JavaScript-based tools such as Bower, Gulp. CSS libraries like Bootstrap and Foundation help me fast develop user interfaces.
     - name: Databases
-      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not.
-    - name: Debugging
-      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not.
-    - name: Dev-ops
-      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not.
+      desc: Besides object-relational databases PostgreSQL, MySQL I have experience in using NoSQL database MongoDB, search engine ElasticSearch and key-value storages like Memcached and Redis.
+    - name: Unix/Dev-ops
+      desc: I'm a strong UNIX user, Linux or Mac OS X. I love terminal and CLI. Setup and support any arhitecture for big and small projects it's like one, two, three.
     - name: Startup and business basics
-      desc: Ruby is not just Rails. It became dominant framework, and is something i probably work everyday, but it is not.
+      desc: I have all the necessary knowledge to create a MVP and startups and their optimizations in search engines.
 
 languages:
     - name: English
@@ -49,78 +47,131 @@ languages:
       level: native
 
 alphabetsoup:
-    - Ruby/Ruby on Rails
+    - Ruby on Rails
+    - Sinatra
+    - Grape
+    - PostgreSQL
+    - MongoDB
+    - ElasticSearch
+    - Redis
+    - Memcached
+    - Sidekiq
+    - Capistrano
+    - CanCanCan
+    - Devise
+    - Slim/HAML
+    - Simpe form
+    - Rspec
+    - Capubara
+    - Puma
+    - RailsAdmin
+    - CoffeeScript
+    - HTML5
+    - CSS/SCSS
     - Javascript
-    - Ruby/Ruby on Rails
-
-    - XHTML
-    - CSS
-    - Javascript
-
+    - AngularJS
+    - BackboneJS
+    - ReactJS
     - Jquery
     - PHP
-    - CVS / Subversion
-
+    - GIT/SVN
     - OS X
     - Linux
-    - Windows XP/Vista
 
 links:
     - name: GitHub
       url: https://github.com/voleoo
-    - name: StackOverFlow
-      url: http://stackoverflow.com/users/2616317/viktor-leonets
+    # - name: StackOverFlow
+    #   url: http://stackoverflow.com/users/2616317/viktor-leonets
     - name: Linkedin
       url: https://linkedin.com/in/leonets
 
 jobs:
-    - title: Senior Interface Designer
-      company: Famous Company
-      url: http://example.com/
+    - title: Full stack Ruby On Rails developer
+      company: RubyGarage
       dates:
-          start: 2007-01-02
-          end: Present
+          start: 2014-04-01
+          end: 2016-04-01
       desc: |
-          Intrinsicly enable optimal core competencies through corporate relationships.
+        Create new apps and support existing systems. Introduction the best practices in development like continuse integrations and continius delivery. The training new employees.
 
-          Phosfluorescently implement worldwide vortals and client-focused imperatives.
 
-          Conveniently initiate virtual paradigms and top-line convergence.
-
-    - title: Junior Interface Designer
-      company: Technocorp
+    - title: Web Developer
+      company: AutoXloo LLC
       dates:
-          start: 2005-01-01
-          end: 2007-01-01
+        start: 2012-01-15
+        end: 2014-03-31
       desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+          Supporting and developing CRM system for dealers website.
 
-          Compellingly morph extensive niche markets with mission-critical ideas.
-
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
-
-education: # this section is not mandatory
-    - name: Indiana University
-      url: http://indiana.edu # not mandatory
-      city: Bloomington
-      region: Indiana
-      country: USA # not mandatory
+education:
+    - name: National Mining University
+      url: http://www.nmu.org.ua/en/
+      city: Dnipro
+      country: Ukraine
       dates:
-        start: 2001-01-01
-        end: 2010-01-01 # not mandatory
-      title: Dual Major, Economics and English
-      grade: 4.0 GPA # not mandatory
+        start: 2001-09-01
+        end: 2006-06-15
+      title: Computer Science and Engineering
 
-projects: # this section is not mandatory
-    - name: ResumeMan
+projects:
+    - name: HeyTechs
+      url: https://heytechs.com
       desc: |
-          Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
-      url: https://github.com/reefab/ResumeMan # not mandatory
-      dates: # not mandatory
-        start: 2013-02-18
-        end: 2014-04-05 # not mandatory
-      location: # not mandatory
-        city: Florence
-        region: Tuscany
-        country: Italy # not mandatory
-
+        Social network for those who want to be in touch with the latest events of IT industry.
+      tags: Ruby-On-Rails, ReactJS, HTML5, PostgreSQL, ElasticSearch, Memcached, Sidekiq API services, AWS, Chef, Nginx
+      dates:
+        start: 2016-01-10
+        end: 2016-06-30
+    - name: MailBus
+      url: http://mailbus.io
+      desc: |
+        Easy tools for email marketing.
+      tags: Ruby-On-Rails, Sinatra, HTML5, Jquery, MongoDB, Redis, Sidekiq, AWS, Bootstrap, Chef, Postfix, Nginx
+      dates:
+        start: 2015-09-15
+        end: 2015-12-31
+    - name: SensoryTreat
+      url: http://sensorytreat.pro
+      desc: |
+        SensoryTreat
+      tags: Ruby-On-Rails, AngularJS, Jquery, Ajax, HTML5, PostgreSQL, Redis, Sidekiq, Heroku, Cloudinary, SPA
+      dates:
+        start: 2015-02-15
+        end: 2015-08-20
+    - name: BlueSkyELearn
+      url: http://blueskyelearn.com
+      desc: |
+        Blue Sky provides cloud-based learning solutions to maximize content and create deeper engagement with audience anywhere in the world.
+      tags: Ruby-On-Rails, Jquery, HTML5, PostgreSQL, Redis, Sidekiq, Heroku, AWS
+      dates:
+        start: 2014-11-20
+        end: 2015-02-13
+    - name: WeddingList
+      desc: |
+        Portal which helps organize wedding or another big date.
+      tags: Ruby-On-Rails, AngularJS, PostgreSQL, Redis, Heroku, AWS, SPA
+      dates:
+        start: 2014-11-20
+        end: 2015-02-13
+    - name: AntWish
+      desc: |
+        Social Network for travelers and buyers. Easy remote purchasing from any country via travelers.
+      dates:
+        start: 2014-08-01
+        end: 2014-11-20
+      tags: Ruby-On-Rails, AngularJS, PostgreSQL, Redis, Heroku, AWS, SPA
+    - name: SaleHoot
+      desc: |
+        SaleHoot is a free sale aggregation service that changes the way people find sales by eliminating their need for bothersome promotional emails.
+      dates:
+        start: 2014-04-08
+        end: 2014-07-31
+      tags: Ruby-On-Rails, AngularJS, HTML5 PostgreSQL, Redis, Heroku, AWS
+    - name: AutoXloo CRM System
+      desc: |
+          CRM for dealer websites
+      tags: Ruby-On-Rails, BackboneJS, MySQL, Memcached, Dedicated servers, Chef, Nginx, AWS
+      dates:
+        start: 2012-01-15
+        end: 2014-03-31
