@@ -81,3 +81,16 @@ a#pdf:hover { background: #222; }
 .yui-gf .yui-u{width:80.2%;}
 .yui-gf div.first{width:12.3%;}
 
+.talent.skills{ height: 235px; }
+
+.tags { margin-top: 8px; }
+
+.tag {
+  background-color: grey;
+  border: 1px solid grey;
+  border-radius: 4px;
+  color: white;
+  padding: 0 4px;
+  display: inline-block;
+  margin: 2px 0;
+}
