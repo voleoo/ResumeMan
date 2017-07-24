@@ -24,7 +24,7 @@ info:
         postal_code: Ukraine # not mandatory
         # country: Ukraine # not mandatory
     desc: |
-        I solve tough prob­lems by ap­ply­ing a broad skillset de­vel­oped through more than a half decade of pas­sion for the craft of soft­ware en­gi­neer­ing and web development.
+        I solve tough prob­lems by ap­ply­ing a broad skill set de­vel­oped through more than a half decade of pas­sion for the craft of soft­ware en­gi­neer­ing and web development.
 
 skills:
     - name: Alternative frameworks
@@ -73,7 +73,7 @@ alphabetsoup:
     - BackboneJS
     - ReactJS
     - Jquery
-    - PHP
+    - AWS
     - GIT/SVN
     - OS X
     - Linux
@@ -87,6 +87,14 @@ links:
       url: https://linkedin.com/in/leonets
 
 jobs:
+    - title: Full Stack Developer
+      company: Malcolm Consulting LTD
+      dates:
+          start: 2016-04-05
+          end: 2017-02-28
+      desc: |
+        Development of new products and advising clients about technologies.
+
     - title: Full stack Ruby On Rails developer
       company: RubyGarage
       dates:
@@ -95,14 +103,13 @@ jobs:
       desc: |
         Create new apps and support existing systems. Introduction the best practices in development like continuse integrations and continius delivery. The training new employees.
 
-
     - title: Web Developer
       company: AutoXloo LLC
       dates:
         start: 2012-01-15
         end: 2014-03-31
       desc: |
-          Supporting and developing CRM system for dealers website.
+        Supporting and developing CRM system for auto website.
 
 education:
     - name: National Mining University
