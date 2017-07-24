@@ -81,8 +81,8 @@ alphabetsoup:
 links:
     - name: GitHub
       url: https://github.com/voleoo
-    # - name: StackOverFlow
-    #   url: http://stackoverflow.com/users/2616317/viktor-leonets
+    - name: StackOverFlow
+      url: http://stackoverflow.com/users/2616317/viktor-leonets
     - name: Linkedin
       url: https://linkedin.com/in/leonets
 
@@ -91,9 +91,9 @@ jobs:
       company: Malcolm Consulting LTD
       dates:
           start: 2016-04-05
-          end: 2017-02-28
+          end: 2017-07-01
       desc: |
-        Development of new products and advising clients about technologies.
+        Development of new products and modules for the document management system.
 
     - title: Full stack Ruby On Rails developer
       company: RubyGarage
@@ -122,11 +122,19 @@ education:
       title: Computer Science and Engineering
 
 projects:
+    - name: TightShip
+      url: https://www.tightship.io
+      desc: |
+        Document management system for legal companies
+      tags: Ruby-On-Rails, Jquery, HTML5, MySQL, ElasticSearch, Memcached, Sidekiq, Heroku, AWS, Chef, Nginx
+      dates:
+        start: 2015-08-20
+        end: 2017-06-30
     - name: HeyTechs
       url: https://heytechs.com
       desc: |
         Social network for those who want to be in touch with the latest events of IT industry.
-      tags: Ruby-On-Rails, ReactJS, HTML5, PostgreSQL, ElasticSearch, Memcached, Sidekiq API services, AWS, Chef, Nginx
+      tags: Ruby-On-Rails, ReactJS, HTML5, PostgreSQL, ElasticSearch, Memcached, Sidekiq, API services, AWS, Chef, Nginx
       dates:
         start: 2016-01-10
         end: 2016-06-30
