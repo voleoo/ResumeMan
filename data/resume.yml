@@ -83,10 +83,26 @@ links:
       url: https://github.com/voleoo
     - name: StackOverFlow
       url: http://stackoverflow.com/users/2616317/viktor-leonets
-    - name: Linkedin
-      url: https://linkedin.com/in/leonets
+    # - name: Linkedin
+    #   url: https://linkedin.com/in/leonets
 
 jobs:
+    - title: Full stack developer
+      company: Dockstr AB
+      dates:
+        start: 2018-06-01
+        end: 2019-09-30
+      desc: |
+        Supporting product and developing new features
+
+    - title: Ruby On Rails developer
+      company: Brainy Yak, LLC
+      dates:
+        start: 2017-09-01
+        end: 2018-03-31
+      desc: |
+        Worked as a team member for supporting current products.
+
     - title: Full Stack Developer
       company: Malcolm Consulting LTD
       dates:
@@ -122,6 +138,22 @@ education:
       title: Computer Science and Engineering
 
 projects:
+    - name: Dockstr
+      url: https://www.dockstr.com
+      desc: |
+        Marketplace for offshore industry
+      tags: Ruby-On-Rails, Apollo, ReactJS, Jquery, HTML5, Postrges, ElasticSearch, Redis, Sidekiq, Heroku, AWS, Nginx
+      dates:
+        start: 2018-06-01
+        end: 2019-09-30
+    - name: Scompler
+      url: https://scompler.com
+      desc: |
+        CRM for marketing industry
+      tags: Ruby-On-Rails, ReactJS, Socialmedia API, HTML5, Postrges, ElasticSearch, Sidekiq, Heroku, AWS, Chef, Nginx
+      dates:
+        start: 2017-09-01
+        end: 2018-03-31
     - name: TightShip
       url: https://www.tightship.io
       desc: |
